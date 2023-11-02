@@ -5,7 +5,9 @@ You can download the MySQL Community Server Edition from [here](https://dev.mysq
 
 ## Connection
 Run the below command to connect with the MySQL Server instance:
+
 `mysql -u root -p`
+
 After running the command, you will be asked to provide a password. This password is the same that you created while installation.
 
 ## Queries
